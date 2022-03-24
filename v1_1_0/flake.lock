@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-neverwinter-v1_1_0": "src-neverwinter-v1_1_0"
+        "src-neverwinter_utils-v1_1_0": "src-neverwinter_utils-v1_1_0"
       }
     },
-    "src-neverwinter-v1_1_0": {
+    "src-neverwinter_utils-v1_1_0": {
       "flake": false,
       "locked": {
         "lastModified": 1537527628,
