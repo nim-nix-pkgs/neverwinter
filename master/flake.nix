@@ -11,6 +11,7 @@
   inputs.src-neverwinter-master.ref   = "refs/heads/master";
   inputs.src-neverwinter-master.owner = "niv";
   inputs.src-neverwinter-master.repo  = "neverwinter.nim";
+  inputs.src-neverwinter-master.dir   = "";
   inputs.src-neverwinter-master.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
