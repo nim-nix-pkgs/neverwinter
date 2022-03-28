@@ -11,7 +11,6 @@
   inputs.src-neverwinter-1_5_4.ref   = "refs/tags/1.5.4";
   inputs.src-neverwinter-1_5_4.owner = "niv";
   inputs.src-neverwinter-1_5_4.repo  = "neverwinter.nim";
-  inputs.src-neverwinter-1_5_4.dir   = "";
   inputs.src-neverwinter-1_5_4.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";

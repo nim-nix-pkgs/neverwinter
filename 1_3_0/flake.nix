@@ -11,7 +11,6 @@
   inputs.src-neverwinter-1_3_0.ref   = "refs/tags/1.3.0";
   inputs.src-neverwinter-1_3_0.owner = "niv";
   inputs.src-neverwinter-1_3_0.repo  = "neverwinter.nim";
-  inputs.src-neverwinter-1_3_0.dir   = "";
   inputs.src-neverwinter-1_3_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
