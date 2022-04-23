@@ -95,7 +95,7 @@
         "docopt": "docopt",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-neverwinter-master": "src-neverwinter-master"
+        "src-neverwinter-1_5_6": "src-neverwinter-1_5_6"
       }
     },
     "src-docopt-v0_6_8": {
@@ -115,19 +115,19 @@
         "type": "github"
       }
     },
-    "src-neverwinter-master": {
+    "src-neverwinter-1_5_6": {
       "flake": false,
       "locked": {
-        "lastModified": 1648969932,
-        "narHash": "sha256-BX+ynZBkTW3IAd5auvUHkI/YOv2CyzjONgPNSoxN0lE=",
+        "lastModified": 1650180985,
+        "narHash": "sha256-fa1ARZkaM7KZNPsduJwdNh+PLS5HD5KHhQz8fdFzHgY=",
         "owner": "niv",
         "repo": "neverwinter.nim",
-        "rev": "5c350458518fc7744711d6367eb36adf6f67124c",
+        "rev": "c4fab69467a611280c8e7944a0a67bb3f9b04e69",
         "type": "github"
       },
       "original": {
         "owner": "niv",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/1.5.6",
         "repo": "neverwinter.nim",
         "type": "github"
       }
