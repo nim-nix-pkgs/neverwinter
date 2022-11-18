@@ -263,7 +263,7 @@
         "docopt": "docopt",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-neverwinter-master": "src-neverwinter-master"
+        "src-neverwinter-1_5_8": "src-neverwinter-1_5_8"
       }
     },
     "src-docopt-v0_7_0": {
@@ -283,7 +283,7 @@
         "type": "github"
       }
     },
-    "src-neverwinter-master": {
+    "src-neverwinter-1_5_8": {
       "flake": false,
       "locked": {
         "lastModified": 1667471258,
@@ -295,7 +295,7 @@
       },
       "original": {
         "owner": "niv",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/1.5.8",
         "repo": "neverwinter.nim",
         "type": "github"
       }
